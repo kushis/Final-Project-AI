@@ -1,0 +1,65 @@
+body{
+	background-color: #cbc3e3;
+	font-size: 15pt;
+	font-family: Optima, sans-serif;
+
+}
+.heading{
+	font-size: 25pt;
+	text-align: center;
+	color: rebeccapurple;
+	font-style: italic;
+	font-family: serif;
+	
+}
+.fs{
+	background-image: url("https://img.freepik.com/premium-photo/watercolor-light-purple-white-gradient-background_145343-661.jpg?w=2000");
+	background-size: 100%;
+}
+table{
+	font-size: 20pt;
+}
+h1{
+	color: darkcyan;
+	font-style: italic;
+	background-color: ivory;
+}
+h2{
+	color: orangered;
+	font-family: Optima, sans-serif;
+}
+a:link{
+	color: orange;
+}
+a:visited{
+	color: darkblue;
+}
+a:hover{
+	color: green;
+}
+a:active{
+	color: red;
+}
+
+button{
+	background-color: pink;
+}
+.logo{
+	border-radius: 50%;
+	height: 100px;
+	width: 100px;
+}
+img{
+	height: 300px;
+	width: 500px;
+}
+hr{
+	height: 3px;
+	background-color: yellow;
+	border: none;
+}
+h3{
+	color: purple;
+}
+
+
